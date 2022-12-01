@@ -5,6 +5,8 @@
 
 Backend application for generating customizable quizzes.
 
+[Live demo](https://quizgen.onrender.com/)
+
 Repository of the frontend application is available [here](https://github.com/mslabek/quizgen-website).
 
 
